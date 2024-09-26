@@ -2,8 +2,9 @@
 name = "hse-python-backend"
 version = "0.1.0"
 description = ""
-authors = ["Ilya Katun <katun.ilya@gmail.com>"]
+authors = ["Ilya shusharin <ilya300601@gmail.com>"]
 readme = "README.md"
+packages = [{include = "main"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
